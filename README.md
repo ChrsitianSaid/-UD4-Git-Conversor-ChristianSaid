@@ -1,1 +1,1 @@
-# -UD4-Git-Conversor-ChristianSaid
+Repositorio base para el ejercicio 4.2. de Entornos de desarrollo
