@@ -1,3 +1,5 @@
+// Autor: Christian - Conversor de Temperatura
+
 public class ConversorUnidades {
     
     /**
