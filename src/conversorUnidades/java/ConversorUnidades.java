@@ -1,4 +1,5 @@
 // Contribución de Juan Pérez: Módulo de temperatura.
+// Contribución de Juan Pérez: Módulo de temperatura.
 
 //Autor: Christian - Conversor de Temperatura
 //Contribución de Juan Pérez: Módulo de temperatura.
