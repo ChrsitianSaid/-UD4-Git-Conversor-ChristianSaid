@@ -1,4 +1,4 @@
-package conversorUnidades;
+package conversorUnidades.java;
 
 public class ConversorUnidades {
 
