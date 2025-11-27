@@ -1,11 +1,11 @@
-package conversorUnidades.java;
+// Contribución de Juan Pérez: Módulo de temperatura.
 
 //Autor: Christian - Conversor de Temperatura
 //Contribución de Juan Pérez: Módulo de temperatura.
 
 
 public class ConversorUnidades {
-
+    // ... el resto del código permanece igual
     
     /**
      * Convierte grados Celsius a Fahrenheit
