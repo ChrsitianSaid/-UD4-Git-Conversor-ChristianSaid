@@ -1,4 +1,5 @@
 // Autor: Christian - Conversor de Temperatura
+// Contribución de Juan Pérez: Módulo de temperatura.
 
 public class ConversorUnidades {
     
