@@ -1,4 +1,5 @@
 // Contribución de Juan Pérez: Módulo de temperatura.
+// Contribución de Juan Pérez: Módulo de temperatura.
 
 public class ConversorUnidades {
     // ... el resto del código permanece igual
